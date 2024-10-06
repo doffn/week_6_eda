@@ -10,7 +10,7 @@ This is Week 6 Challenge on 10 Academy: Artificial Intelligence Mastery
 - Notebook can be found inside notebooks directory
 
 
-** TODO **
+**TODO**
 
 - will work on the project
 
